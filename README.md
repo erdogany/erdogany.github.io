@@ -10,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 When do we collect information?
 ==========================
 
-We collect information from you when you register on our site or enter information on our site.
+We collect information from you when you register on our mobile app.
 
 
 How do we use your information?
@@ -35,9 +35,10 @@ We implement a variety of security measures when a user places an order enters, 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
 Do we use 'cookies'?
+==========================
 
 We do not use cookies for tracking purposes
-==========================
+
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
